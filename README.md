@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @hammershot5
+- 👀 I’m interested in python, in particular the Tkinter library
+- 🌱 I’m currently learning cybersecurity and netowrking
+- 💞️ I’m looking to collaborate on python projects
